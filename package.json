@@ -24,7 +24,7 @@
     "emoji-picker-react": "^4.12.2",
     "express": "^4.21.2",
     "firebase": "^11.4.0",
-    "framer-motion": "^12.6.2",
+    "framer-motion": "^12.23.12",
     "katex": "^0.16.21",
     "lucide-react": "^0.473.0",
     "mdb-react-ui-kit": "^9.0.0",
